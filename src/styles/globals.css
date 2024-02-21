@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #0070f3;
+  --secondary-color: #ff0080;
+  --danger-color: #ff0000;
+  --success-color : #00ff00;
+  --warning-color : #ffcc00;
+}
